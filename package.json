@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Preposterous/react-native-vertical-alphabet/issues"
   },
-  "homepage": "https://github.com/Preposterous/react-native-vertical-alphabet#readme"
+  "homepage": "https://github.com/Preposterous/react-native-vertical-alphabet#readme",
+  "peerDependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-native": "^0.48.3"
+  }
 }
