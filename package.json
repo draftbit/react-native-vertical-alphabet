@@ -1,0 +1,22 @@
+{
+  "name": "react-native-vertical-alphabet",
+  "version": "1.0.0",
+  "description": "A vertical alphabet scroller for react native. This is part 1 of 2 (2 will include SectionList)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preposterous/react-native-vertical-alphabet.git"
+  },
+  "keywords": [
+    "alphabet"
+  ],
+  "author": "Peter Piekarczyk <peter@preposterous.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Preposterous/react-native-vertical-alphabet/issues"
+  },
+  "homepage": "https://github.com/Preposterous/react-native-vertical-alphabet#readme"
+}
