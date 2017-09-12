@@ -1,4 +1,8 @@
-# react native vertical alphabet list
+# react native vertical alphabet
+
+🅰 The vertical index scroller you've been looking for
+
+[![npm version](https://badge.fury.io/js/react-native-vertical-alphabet.svg)](https://badge.fury.io/js/react-native-vertical-alphabet)
 
 ## usage
 ```jsx
